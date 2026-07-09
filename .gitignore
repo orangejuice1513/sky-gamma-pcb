@@ -1,1 +1,33 @@
+# KiCad lock files
 references/
+*.lck
+
+# KiCad auto-saved files
+\#auto_saved_files\#/
+
+# KiCad backup files
+*.bak
+*-backups/
+
+# KiCad generated files
+*.kicad_prl
+
+# Gerber output
+gerbers/
+fabrication/
+
+# Build artifacts
+*.dsn
+*.ses
+_autosave-*
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
