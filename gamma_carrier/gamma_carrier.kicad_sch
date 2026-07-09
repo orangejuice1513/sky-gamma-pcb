@@ -1,0 +1,308 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "14709545-fb6c-4e0b-b295-f7f5e8a286ba")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 63.5 38.1)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0e58818c-005b-4d62-adc6-0567728bdecf")
+		(property "Sheetname" "power"
+			(at 63.5 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 63.5 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 52.07)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "280d74ab-018c-4a2d-9b26-4ad5c59a5a40")
+		(property "Sheetname" "jetson"
+			(at 63.5 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "jetson.kicad_sch"
+			(at 63.5 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 83.82 86.36)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "319d77ee-c6a3-416a-831d-09fc09701389")
+		(property "Sheetname" "nvme"
+			(at 83.82 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nvme.kicad_sch"
+			(at 83.82 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 67.31)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "75abde6d-037d-4727-8412-1c3b68ac40c0")
+		(property "Sheetname" "ark"
+			(at 63.5 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ark.kicad_sch"
+			(at 63.5 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 53.34)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c70cf813-e912-40b2-8ae3-50c303af89fd")
+		(property "Sheetname" "external_connectors"
+			(at 96.52 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "external_connectors.kicad_sch"
+			(at 96.52 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 38.1)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d753f832-f288-43e3-b43f-32671fade09a")
+		(property "Sheetname" "camera"
+			(at 96.52 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "camera.kicad_sch"
+			(at 96.52 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 68.58)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e6b6da16-d4ae-4ca0-ac50-b6d1bc1879b1")
+		(property "Sheetname" "internal_connectors"
+			(at 97.79 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "internal_connectors.kicad_sch"
+			(at 97.79 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "gamma_carrier"
+				(path "/14709545-fb6c-4e0b-b295-f7f5e8a286ba"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
