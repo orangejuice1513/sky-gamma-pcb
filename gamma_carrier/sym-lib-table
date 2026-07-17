@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "gamma_lib")(type "KiCad")(uri "${KIPRJMOD}/gamma_lib.kicad_sym")(options "")(descr ""))
   (lib (name "jetson_som")(type "KiCad")(uri "${KIPRJMOD}/jetson_som.kicad_sym")(options "")(descr ""))
+  (lib (name "jetson")(type "KiCad")(uri "${KIPRJMOD}/antmicroSoMConnectors.kicad_sym")(options "")(descr ""))
 )

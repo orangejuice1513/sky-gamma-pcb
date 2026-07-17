@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "gamma_fp")(type "KiCad")(uri "${KIPRJMOD}/gamma_lib.pretty/Library.pretty")(options "")(descr ""))
+)
